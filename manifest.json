@@ -1,11 +1,11 @@
 {
-    "name": "click",
-    "short_name": "click",
+    "name": "heating_control",
+    "short_name": "heating_control",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "a simple math game",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
